@@ -1,0 +1,15 @@
+...::: Phiếu bảo hành của khách hàng :::...
+
+Mã bảo hành        :       451561
+Tên khách hàng     :       Doãn Trần Tuấn Đạt
+Mã xe              :       972480
+Lý do              :       Sướt màu
+Lỗi thuộc về       :       Sản phầm
+Linh kiện          :       Bộ vỏ xe mới
+Giá tiền           :       0.0
+Nhân viên bảo hành :       Đình Thanh
+Địa chỉ bảo hành   :       54 Phan Văn Trị, phường 11, Gò Vấp
+
+                             Tp HCM thứ     ngày     tháng    năm     
+
+                                             Ký tên
